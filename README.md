@@ -38,11 +38,3 @@ Goes beyond aggregate portfolio metrics to isolate risk drivers:
 
 ---
 
-## 🛠️ Project Directory Structure
-
-```bash
-├── Var engine.ipynb        # Core Jupyter Notebook (Data pipelines, Math, & Visualization)
-├── image_1cacf3.png        # Compiled analytical dashboard image 
-├── 001_._Combined.pdf      # Complete presentation-ready research report
-├── README.md               # Repository documentation
-└── requirements.txt        # Analytical environment dependencies
